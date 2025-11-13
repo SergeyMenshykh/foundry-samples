@@ -6,8 +6,11 @@ metadata:
       content: |-
         What's the latest news in AI?
   tags:
-    - example
-    - learning
+    - AI Agent Grounding
+    - AI Agent Hosting
+    - Azure AI AgentServer
+    - Bing Grounding
+    - Microsoft Agent Framework
   authors:
     - jeomhove
 template:
